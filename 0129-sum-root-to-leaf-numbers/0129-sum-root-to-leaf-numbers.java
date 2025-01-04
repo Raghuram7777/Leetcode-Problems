@@ -14,26 +14,21 @@
  * }
  */
 class Solution {
-    List<String> arr=new ArrayList<>();
-    String a="";
-    public void preorder(TreeNode root,String a){
+    int sum=0;
+    public void preorder(TreeNode root,int rsum){
         if(root==null){
             return;
         }
-        a+=root.val;
+        rsum = rsum * 10 + root.val;
         if(root.left==null && root.right==null){
-            arr.add(a);
+            sum+=rsum;
         }
-        preorder(root.left,a);
-        preorder(root.right,a);
+        preorder(root.left,rsum);
+        preorder(root.right,rsum);
     }
     public int sumNumbers(TreeNode root) {
-        a="";
-        preorder(root,a);
-        int sum=0;
-        for(int i=0;i<arr.size();i++){
-            sum+=Integer.parseInt(arr.get(i));
-        }
+        sum=0;
+        preorder(root,0);        
         return sum;
     }
 }
