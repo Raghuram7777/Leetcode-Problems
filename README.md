@@ -14,6 +14,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
@@ -24,6 +25,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
@@ -36,6 +38,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
@@ -56,5 +59,6 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
