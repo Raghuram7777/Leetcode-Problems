@@ -110,4 +110,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## String
+|  |
+| ------- |
+| [0763-special-binary-string](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0763-special-binary-string) |
+## Recursion
+|  |
+| ------- |
+| [0763-special-binary-string](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0763-special-binary-string) |
 <!---LeetCode Topics End-->
