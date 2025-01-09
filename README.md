@@ -113,6 +113,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
 | [0763-special-binary-string](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0763-special-binary-string) |
 ## Recursion
@@ -131,4 +132,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
