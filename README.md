@@ -71,6 +71,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0948-sort-an-array) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Quickselect
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0763-special-binary-string](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0763-special-binary-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Recursion
 |  |
 | ------- |
