@@ -1,20 +1,25 @@
 int candy(int* r, int rsize) {
     if (rsize == 0) return 0;
-    int sum=0;
-    int nums[rsize];
-    for(int i=0;i<rsize;i++)nums[i]=1;
-    for(int i=1;i<rsize;i++){
+    int sum=1;int up=0;
+    int peak=0,down=0;int i=1;
+    while(i< rsize){
         if(r[i]>r[i-1]){
-            nums[i]=nums[i-1]+1;
+            up++;
+            peak=up;
+            down=0;
+            sum+=up+1;
         }
-    }
-    for(int i=rsize-2;i>=0;i--){
-        if(r[i]>r[i+1]){
-            nums[i]=(nums[i]>nums[i+1]+1)?nums[i]:(nums[i+1]+1);
+        else if(r[i]==r[i-1]){
+            up=down=peak=0;
+            sum+=1;
         }
-    }
-    for(int i=0;i<rsize;i++){
-        sum+=nums[i];
+        else{
+            up=0;
+            down++;
+            sum+=down;
+            if(down>peak)sum+=1;
+        }
+        i++;
     }
     return sum;
 }
