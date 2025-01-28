@@ -10,10 +10,10 @@ int solve(char* a,char* b,int i,int j,int**dp,int l1,int l2){
     return dp[i][j];
 }
 int longestCommonSubsequence(char* text1, char* text2) {
-    int** dp=(int**)malloc(sizeof(int*)*strlen(text1));
-    for(int i=0;i<strlen(text1);i++){
-        dp[i]=(int*)malloc(sizeof(int)*strlen(text2));
-        for(int j=0;j<strlen(text2);j++){
+    int** dp=(int**)malloc(sizeof(int*)*(strlen(text1)+1));
+    for(int i=0;i<=strlen(text1);i++){
+        dp[i]=(int*)malloc(sizeof(int)*(strlen(text2)+1));
+        for(int j=0;j<=strlen(text2);j++){
             dp[i][j]=-1;
         }
     }
