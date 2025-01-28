@@ -132,6 +132,7 @@
 | [0214-shortest-palindrome](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0763-special-binary-string](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0763-special-binary-string) |
+| [1250-longest-common-subsequence](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Recursion
@@ -181,6 +182,7 @@
 | [1013-fibonacci-number](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1105-uncrossed-lines](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1105-uncrossed-lines) |
 | [1236-n-th-tribonacci-number](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Memoization
 |  |
