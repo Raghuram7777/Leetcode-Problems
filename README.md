@@ -129,6 +129,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0125-valid-palindrome) |
@@ -173,6 +174,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
@@ -215,4 +217,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0547-number-of-provinces) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
