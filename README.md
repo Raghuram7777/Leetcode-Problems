@@ -30,6 +30,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -64,6 +65,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
 |  |
@@ -205,4 +207,12 @@
 | [0055-jump-game](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
