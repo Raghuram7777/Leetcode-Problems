@@ -15,6 +15,7 @@ class Solution {
             l.add(sb.toString());}
             return;
         }
+        //generating all possible combinations
         sb.append('(');
         solve(sb,l,n,i+1);
         sb.deleteCharAt(sb.length()-1);
