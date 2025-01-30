@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -84,6 +85,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
@@ -202,6 +204,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 ## Greedy
@@ -222,5 +225,6 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
