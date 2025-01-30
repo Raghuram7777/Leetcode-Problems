@@ -84,6 +84,7 @@
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
@@ -221,4 +222,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
