@@ -68,6 +68,7 @@
 | [0112-path-sum](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -100,6 +101,7 @@
 | [0200-number-of-islands](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0948-sort-an-array) |
@@ -194,6 +196,7 @@
 | [0198-house-robber](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1105-uncrossed-lines](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1105-uncrossed-lines) |
@@ -216,6 +219,7 @@
 | [0063-unique-paths-ii](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 ## Greedy
