@@ -33,7 +33,6 @@ class Solution {
                         }
                     }
                 }
-                ch[i]=o;
             }
         }
         return 0;
