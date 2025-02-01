@@ -35,6 +35,7 @@
 | [0547-number-of-provinces](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0733-flood-fill](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1073-number-of-enclaves) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1073-number-of-enclaves) |
 | [1105-uncrossed-lines](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1105-uncrossed-lines) |
 ## Divide and Conquer
 |  |
@@ -226,6 +229,7 @@
 | [0542-01-matrix](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1073-number-of-enclaves) |
 ## Greedy
 |  |
 | ------- |
@@ -238,6 +242,7 @@
 | [0130-surrounded-regions](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
