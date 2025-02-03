@@ -118,6 +118,7 @@
 | [0733-flood-fill](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0948-sort-an-array) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1073-number-of-enclaves) |
 | [1105-uncrossed-lines](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1105-uncrossed-lines) |
@@ -164,6 +165,7 @@
 | [0214-shortest-palindrome](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0763-special-binary-string](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0763-special-binary-string) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1250-longest-common-subsequence](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -252,6 +254,7 @@
 | [0200-number-of-islands](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1073-number-of-enclaves](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
@@ -260,6 +263,7 @@
 | [0210-course-schedule-ii](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1032-satisfiability-of-equality-equations) |
 ## Backtracking
 |  |
 | ------- |
