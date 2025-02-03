@@ -37,6 +37,7 @@
 | [0547-number-of-provinces](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
@@ -81,6 +82,7 @@
 | [0547-number-of-provinces](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1073-number-of-enclaves) |
@@ -263,6 +265,7 @@
 | [0210-course-schedule-ii](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1032-satisfiability-of-equality-equations) |
 ## Backtracking
 |  |
@@ -275,4 +278,5 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
