@@ -168,6 +168,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0763-special-binary-string](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0763-special-binary-string) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1032-satisfiability-of-equality-equations) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -257,6 +258,7 @@
 | [0547-number-of-provinces](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1032-satisfiability-of-equality-equations) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
