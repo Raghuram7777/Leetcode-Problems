@@ -159,6 +159,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0087-scramble-string) |
@@ -192,6 +193,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
@@ -208,6 +210,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0062-unique-paths) |
