@@ -102,6 +102,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0948-sort-an-array](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0948-sort-an-array) |
@@ -112,6 +113,7 @@
 | [0037-sudoku-solver](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Raghuram7777/Leetcode-Problems/tree/master/0130-surrounded-regions) |
